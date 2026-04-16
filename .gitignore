@@ -1,0 +1,26 @@
+# API Keys and secrets
+.env
+.env.local
+*.key
+credentials.json
+
+# Output deliverables (client-specific, don't commit)
+output/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Node modules (for MCP servers)
+node_modules/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+~$*
+
+# IDE
+.vscode/
+.idea/

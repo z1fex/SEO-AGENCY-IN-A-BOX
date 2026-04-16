@@ -1,0 +1,41 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:vault/01-Clients",
+      "color": { "a": 1, "rgb": 65535 }
+    },
+    {
+      "query": "path:vault/02-Audits",
+      "color": { "a": 1, "rgb": 16711680 }
+    },
+    {
+      "query": "path:vault/03-Research",
+      "color": { "a": 1, "rgb": 65280 }
+    },
+    {
+      "query": "path:vault/06-Competitors",
+      "color": { "a": 1, "rgb": 16776960 }
+    },
+    {
+      "query": "path:vault/07-Reports",
+      "color": { "a": 1, "rgb": 16711935 }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250
+}
